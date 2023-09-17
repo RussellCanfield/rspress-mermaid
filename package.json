@@ -1,0 +1,19 @@
+{
+	"name": "rspress-doc-template",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"dev": "rspress dev",
+		"build": "rspress build",
+		"preview": "rspress preview"
+	},
+	"devDependencies": {
+		"@modern-js/tsconfig": "2.30.0",
+		"@types/jest": "^29",
+		"@types/node": "^14",
+		"@theguild/remark-mermaid": "0.0.4",
+		"rspress": "0.0.13",
+		"ts-node": "^10.9.1",
+		"typescript": "^5.2.2"
+	}
+}
